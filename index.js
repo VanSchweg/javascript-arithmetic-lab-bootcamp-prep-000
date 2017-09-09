@@ -1,4 +1,4 @@
-add(a,b){
+add(a,b) {
   addresult = a + b;
   return addresult;
 }
