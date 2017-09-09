@@ -9,6 +9,6 @@ function subtract(a,b) {
 }
 
 function multiply(a,b) {
-  var result = a * b; 
+  var result = a * b;
   return result;
 }
