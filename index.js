@@ -1,4 +1,4 @@
 add(a,b) {
-  addresult = a + b;
-  return addresult;
+  result = a + b;
+  return result;
 }
